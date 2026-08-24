@@ -5,9 +5,9 @@ A production-quality, premium Digital Marketing Agency landing page built for lo
 ## Project Overview
 GROWZO is a landing page built to demonstrate high-converting layout architecture, premium editorial typography, micro-interactions, and visual storytelling. Rather than pushing generic marketing packages, the page guides prospects through an audit-first methodology to identify and fix sales leaks.
 
-* **Live Demo:** `[Insert Live Demo Link]`
-* **GitHub Repository:** `[Insert GitHub Link]`
-* **Developer:** `[Insert Developer Name]`
+* **Live Demo:** `https://growza-digital-marketing.vercel.app/`
+* **GitHub Repository:** `https://github.com/Abdul2102/growza-digital-marketing.git`
+* **Developer:** `Abdul kalam`
 
 ---
 
